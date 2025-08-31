@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\source\\repos\\NetCoreApiWebNlayerCleanArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284F151A-CD99-4ACE-BC22-8E69E153120F}|App.Domain\\App.Domain.csproj|c:\\users\\hamza\\source\\repos\\netcoreapiwebnlayercleanarch\\app.domain\\const\\servicebusconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284F151A-CD99-4ACE-BC22-8E69E153120F}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\const\\servicebusconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4404DC0-3F39-4FE9-8B81-690B7E208C37}|App.Bus\\App.Bus.csproj|c:\\users\\hamza\\source\\repos\\netcoreapiwebnlayercleanarch\\app.bus\\busextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4404DC0-3F39-4FE9-8B81-690B7E208C37}|App.Bus\\App.Bus.csproj|solutionrelative:app.bus\\busextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4404DC0-3F39-4FE9-8B81-690B7E208C37}|App.Bus\\App.Bus.csproj|c:\\users\\hamza\\source\\repos\\netcoreapiwebnlayercleanarch\\app.bus\\servicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4404DC0-3F39-4FE9-8B81-690B7E208C37}|App.Bus\\App.Bus.csproj|solutionrelative:app.bus\\servicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceBusConst.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\NetCoreApiWebNlayerCleanArch\\App.Domain\\Const\\ServiceBusConst.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Const\\ServiceBusConst.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\NetCoreApiWebNlayerCleanArch\\App.Domain\\Const\\ServiceBusConst.cs",
+              "RelativeToolTip": "App.Domain\\Const\\ServiceBusConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:31:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceBus.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\NetCoreApiWebNlayerCleanArch\\App.Bus\\ServiceBus.cs",
+              "RelativeDocumentMoniker": "App.Bus\\ServiceBus.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\NetCoreApiWebNlayerCleanArch\\App.Bus\\ServiceBus.cs",
+              "RelativeToolTip": "App.Bus\\ServiceBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:31:42.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\NetCoreApiWebNlayerCleanArch\\App.Bus\\BusExtensions.cs",
+              "RelativeDocumentMoniker": "App.Bus\\BusExtensions.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\NetCoreApiWebNlayerCleanArch\\App.Bus\\BusExtensions.cs",
+              "RelativeToolTip": "App.Bus\\BusExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:29:18.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

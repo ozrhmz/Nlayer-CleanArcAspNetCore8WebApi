@@ -1,0 +1,17 @@
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\bin\Debug\net8.0\App.Bus.deps.json
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\bin\Debug\net8.0\App.Bus.dll
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\bin\Debug\net8.0\App.Bus.pdb
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\bin\Debug\net8.0\App.Application.dll
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\bin\Debug\net8.0\App.Domain.dll
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\bin\Debug\net8.0\App.Application.pdb
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\bin\Debug\net8.0\App.Domain.pdb
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\App.Bus.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\App.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\App.Bus.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\App.Bus.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\App.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\App.Bus.csproj.Up2Date
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\App.Bus.dll
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\refint\App.Bus.dll
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\App.Bus.pdb
+C:\Users\Hamza\source\repos\NetCoreApiWebNlayerCleanArch\App.Bus\obj\Debug\net8.0\ref\App.Bus.dll
